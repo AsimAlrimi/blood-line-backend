@@ -58,11 +58,11 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AsimAlrimi/Blood_Line-Server-.git
+   git clone https://github.com/AsimAlrimi/blood-line-backend.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Blood_Line-Server-
+   cd blood-line-backend
    ```
 3. Create and activate a virtual environment:
    ```sh
