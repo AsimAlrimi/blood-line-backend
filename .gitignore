@@ -1,0 +1,30 @@
+# Sensitive data
+.env
+
+# Python files
+__pycache__/
+*.py[cod]
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# Virtual environment folder
+.venv/
+
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Flask instance folder
+instance/
+
+# Pytest cache and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution/build files
+dist/
+build/
+*.egg-info/
